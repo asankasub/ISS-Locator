@@ -40,8 +40,8 @@ print(sunset)
 
 def send_email():
 
-    my_email = "alphwoodstock@gmail.com" 
-    my_pass = "quebxagjxuawjoqm"
+    my_email = "x" 
+    my_pass = "x"
 
     if (time_now >= sunset or time_now<= sunrise) and abs(MY_LAT-iss_latitude) <= 5 and abs(MY_LONG-iss_longitude) <=5:
 
